@@ -13,7 +13,7 @@
         "changelog": "**New**\n\n- Customer-facing screens (the profile gate, PIN prompts, Bonfire and switcher settings, profile forms) can now be shown in French. English still ships with the plugin and needs no download; French is fetched automatically when the browser asks for it.\n\n**Notes**\n\n- Admin dashboard translations are not part of this release.",
         "targetAbi": "10.11.0.0",
         "sourceUrl": "https://github.com/BryanSmee/Bonfire-JellyProfiles/releases/download/v1.5.1/Jellyfin.Profiles.zip",
-        "checksum": "00000000000000000000000000000000",
+        "checksum": "05c16a65be663e49a01ab2c2d8923a68",
         "timestamp": "2026-08-27T00:00:00Z"
       },
       {
